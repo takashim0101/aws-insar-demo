@@ -109,7 +109,7 @@ This is an important operational skill often evaluated in cloud roles.
 
 ## 4. Workflow Diagram
 
-(You already generated an image — you can include it in your portfolio.)
+![Workflow Image](image.png)
 
 ## 5. Skills Demonstrated
 
