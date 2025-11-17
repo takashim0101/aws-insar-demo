@@ -137,7 +137,7 @@ Completed a full AWS cloud deployment cycle — from containerization, ECR uploa
 
 This is a strong, uncommon, and highly valuable skill set for GeoAI, scientific computing, and cloud engineering positions.
 
-## 7. Suggested Resume Bullet Points (Copy/Paste)
+## 7. Suggested Resume Bullet Points 
 
 ### ✔ Cloud Deployment (AWS + Terraform)
 
